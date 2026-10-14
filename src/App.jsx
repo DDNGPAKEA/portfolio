@@ -374,7 +374,7 @@ export default function App() {
             <div className="flex flex-col sm:flex-row sm:items-baseline justify-between pb-6 border-b border-slate-100">
               <div>
                 <h3 className="font-bold text-slate-900 text-base">IT System Developer & Warehouse Specialist</h3>
-                <p className="text-xs font-medium text-slate-600 mt-0.5">Perusahaan Perkebunan (Gudang G2)</p>
+                <p className="text-xs font-medium text-slate-600 mt-0.5">PT CIPTA FUTURA </p>
                 <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                   Membangun sistem informasi WMS & inventaris internal, menangani digitalisasi peminjaman alat dan mutasi barang harian secara terpadu.
                 </p>
